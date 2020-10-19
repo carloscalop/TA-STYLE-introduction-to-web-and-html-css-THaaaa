@@ -1,0 +1,35 @@
+body {
+background-color: rgb(34, 57,106);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+h2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(49,187,102);
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p{
+    font-family: sans-serif;
+    color: white;
+}
+.social-links{
+        color: #F9234D;
+    width: 20px;
+    height: 20px;
+    margin: 0 50px 25px 0;
+}
+.end{
+    margin: 0 0px 50px 0;
+}
